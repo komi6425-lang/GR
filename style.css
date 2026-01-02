@@ -1,0 +1,9 @@
+
+body { margin:0; font-family:Arial; background:#000; color:#fff; }
+header { padding:10px; background:#111; display:flex; justify-content:space-between; }
+#feed video { width:100%; max-height:90vh; margin-bottom:10px; }
+#uploadBtn {
+ position:fixed; bottom:20px; right:20px;
+ padding:15px; border:none; border-radius:50%;
+ font-size:20px;
+}
